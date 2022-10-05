@@ -4,13 +4,19 @@
   
     
     <entry>
-      <title>MarkDown</title>
+      <title>MarkDown语法</title>
       <link href="/2022/10/03/MarkDown/"/>
       <url>/2022/10/03/MarkDown/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="biaoti"><a href="#biaoti" class="headerlink" title="biaoti"></a>biaoti</h2><p><img src="/2022/10/03/MarkDown/biaoti.png" alt="biaoti"></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Markdown是一种轻量级标记语言，排版语法简洁，让人们更多地关注内容本身而非排版。它使用易读易写的纯文本格式编写文档，可与HTML混编，可导出 HTML、PDF 以及本身的 .md 格式的文件。</p><p>在线体验一下 <a href="https://markdown.com.cn/editor/">Markdown在线编辑器</a></p><h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><p>要创建标题，请在单词或短语前面添加井号 (<code>#</code>) 。<code>#</code>的数量代表了标题的级别。</p><table><thead><tr><th align="center">MarkDown语法</th><th align="center">预览</th></tr></thead><tbody><tr><td align="center"><code># Heading level 1</code></td><td align="center"><h1> Heading level 1 </h1></td></tr><tr><td align="center"><code>## Heading level 2</code></td><td align="center"><h2> Heading level 2 </h2></td></tr><tr><td align="center"><code>### Heading level 3</code></td><td align="center"><h3> Heading level 3 </h3></td></tr><tr><td align="center"><code>#### Heading level 4</code></td><td align="center"><h4> Heading level 4 </h4></td></tr><tr><td align="center"><code>##### Heading level 5</code></td><td align="center"><h5> Heading level 5 </h5></td></tr><tr><td align="center"><code>###### Heading level 6</code></td><td align="center"><h6> Heading level 6 </h6></td></tr></tbody></table><p><strong>注：<code>#</code>与标题之间要有一个空格！！！</strong></p><h1 id="段落"><a href="#段落" class="headerlink" title="段落"></a>段落</h1><p>要创建段落，请使用空白行将一行或多行文本进行分隔。</p><p><img src="/2022/10/03/MarkDown/duanluo.png" alt="段落"><br><strong>注：不要用空格（spaces）或制表符（ tabs）缩进段落。</strong></p><h1 id="换行"><a href="#换行" class="headerlink" title="换行"></a>换行</h1><p>在一行的末尾添加两个或多个空格，然后按回车键,即可创建一个换行(<code>&lt;br&gt;</code>)。<br>或者将空格换成HTML的<code>&lt;br&gt;</code>标签。</p><p><strong>注意和段落区分</strong><br><img src="/2022/10/03/MarkDown/huanhang.png" alt="换行"></p><h1 id="强调"><a href="#强调" class="headerlink" title="强调"></a>强调</h1><p><strong>这个是粗体</strong></p><p><em>这个是斜体</em></p><p><em><strong>这个是粗体加斜体</strong></em></p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 语法 </tag>
+            
+        </tags>
       
     </entry>
     
